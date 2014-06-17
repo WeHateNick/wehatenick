@@ -1,0 +1,19 @@
+	/*yellow: #feff60;*/
+	/*tealy: #52B2AB;*/
+	/*grenbly: 25E8E6;*/
+	/*happydarkblue: 4C5B70;*/
+	/*almostgrey: 4F6770;*/
+	/*purplealmostthere: 3C3F4C;*/
+	/*greener: 323F40;*/
+	/*bg: 27302E;*/
+	/*og-secondary: E8E0E0;*/
+	/*link-blue: 658594;*/
+
+	.intro-block {
+	margin-top: 50%;
+	background: #27302E;
+	background-color: #27302E;
+	-webkit-box-shadow: 0px 0px 4px 2px #27302E;
+	-moz-box-shadow: 0px 0px 4px 2px #27302E;
+	box-shadow: 0px 0px 4px 2px #27302E;
+}
