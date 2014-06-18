@@ -1,4 +1,4 @@
-WeHateNick
+#WeHateNick
 
 This is my personal website. I created using following:
 * HTML
