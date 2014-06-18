@@ -1,4 +1,5 @@
-# WeHateNick
+WeHateNick
+
 This is my personal website. I created using following:
 * HTML
 * CSS
@@ -6,4 +7,4 @@ This is my personal website. I created using following:
 * PHP
 * Bootsrap
 
-You can visit it by going to [http://wehatenick.com]
+You can visit it by going to http://wehatenick.com
