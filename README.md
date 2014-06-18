@@ -1,8 +1,8 @@
-#We Hate Nick
+# WeHateNick
 This is my personal website. I created using following:
-*HTML
-*CSS
-*jQuery
-*PHP
-*Bootsrap
+* HTML
+* CSS
+* jQuery
+* PHP
+* Bootsrap
 You can visit it by going to [http://wehatenick.com]
