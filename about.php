@@ -22,13 +22,13 @@
             </p>
             <h4 class="about-sub">While I was in college</h4>
             <p>
-                I think moving the Reno was probably that best decision I could’ve made. While I absolutely love Bolivia and go back to visit family and friends almost once a year, my time in Reno really brought out the best in me. 
+                I think moving to Reno was probably that best decision I could’ve made. While I absolutely love Bolivia, and go back to visit family and friends almost once a year, my time in Reno really brought out the best in me. 
             </p>
             <h4 class="about-sub">
                 I have an interesting work history
             </h4>
             <p>
-                I was always very interested in two seemingly unrelated fields: programming and public relations/marketing. I earned a degree in strategic communication with a minor in information systems from UNR. With these skills in hand, I went on to work in a variety of different roles that cover a wide spectrum of what I consider to be marketing in general (stretching the generality pretty far). I’ve worked in a traditional public relations role doing political canvassing for Planned Parenthood and I also worked as a webmaster and database administrator. 
+                I was always very interested in two seemingly unrelated fields: programming and public relations/marketing. I earned a degree in strategic communication with a minor in information systems from the University of Nevada. With these skills in hand, I went on to work in a variety of different roles that cover a wide spectrum of what I consider to be marketing in general (stretching the generality pretty far). I’ve worked in a traditional public relations role doing political canvassing for Planned Parenthood and I also worked as a webmaster and database administrator. 
             </P>
             <h4 class="about-sub">
                 I don’t want to specialize, I rather be holistic
