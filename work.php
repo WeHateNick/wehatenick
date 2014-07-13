@@ -44,13 +44,12 @@
             <h3>EdinCarpenterMakeup.com</h3>
         </div>
         <div class="col-md-8 featured-project-image">
-            <img src="img/Makeup-Site.png">
+            <img src="img/edin-carp.png">
         </div>
         <div class="col-md-4">            
             <p>
                 I'm currently working on a website for a makeup artist
-                named Edin Carpenter. The website is only in wireframe
-                stages right now, but I'll have lots more to come.
+                named Edin Carpenter. The site will be finished and live in the next few weeks.
             </p>
         </div>
     </article>

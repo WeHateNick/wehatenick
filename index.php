@@ -58,7 +58,7 @@ include('inc/header.php');
                 </div>
                 <div class="row featured-project">
                     <div class="col-md-8 featured-project-image">
-                        <img src="img/wireframe-desktop.jpg">
+                        <img src="img/edin-carp.png">
                     </div>
                     <div class="col-md-4 featured-project-description">            
                         <p>
