@@ -47,3 +47,43 @@ return isNaN(t)?d:t},f=p(c[0]),m=Math.max(f,p(c[1]||"")),f=n?Math.max(f,n.getFul
 }());
 
 // Place any jQuery/helper plugins in here.
+
+$(function(){
+    $("#emblem-text").hide();
+    $("#emblem-container").hover(function(){
+        $("#emblem-fg").hide("fade");
+        $("#emblem-text").show("fade");
+    });
+    $("#emblem-text").hover(function(){
+        $("#emblem-fg").hide();
+        $("#emblem-text").show();
+    });   
+    $("#emblem-container").mouseleave(function(){
+        $("#emblem-fg").show("fade");
+        $("#emblem-text").hide("fade");
+    });
+});
+$(function(){
+    // $( "#tennant" ).attr("style", "opacity: 0.5;");
+    var fade = $('.fade');
+    $(window).scroll(function(){
+       var percent = $(document).scrollTop() / ($(document).height() - $(window).height());
+       fade.css('opacity', 1 - ( percent / 4 ) * 40 );
+    });
+});
+
+$('.carousel').carousel({
+  interval: 4000
+})
+
+// Scroll down slowly on anchor tag
+
+function scrollToAnchor(aid){
+    var aTag = $("div[id='"+ aid +"']");
+    $('html,body').animate({scrollTop: aTag.offset().top},2000);
+}
+
+$("a#slow-scroll").click(function() {
+   scrollToAnchor('qualifications');
+});
+
