@@ -26,13 +26,14 @@
 
 <!-- JavaScript  -->
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
 <script src="js/vendor/jquery-ui.js"></script>
 <script src="js/vendor/plugins.js"></script>
 <script src="js/vendor/bootstrap.js"></script>
-<script src="js/main.js"></script>
+<script src="js/main.js"></script> -->
 
+<script src="js/build/production.min.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
 <script>
