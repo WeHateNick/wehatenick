@@ -5,15 +5,15 @@ include('inc/header.php');
 ?>
 <!-- Content  -->
 
-<a class="qualification-anchor-link" id="slow-scroll" href="#">
+<div class="header-image">
+        <img src="img/nick-chair-blur.png">
+        <a class="qualification-anchor-link" id="slow-scroll" href="#">
     <div class="header-labels">
         <h2 class="fade"><span class="glyphicon glyphicon-tag"></span> Branding</h2>
         <h2 class="fade"><span class="glyphicon glyphicon-comment"></span> Marketing</h2>
         <h2 class="fade"><span class="glyphicon glyphicon-globe"></span> Web Development</h2>
     </div>
 </a>
-<div class="header-image">
-        <img src="img/nick-chair-blur.png">
 </div>
 <div class="container-fluid intro-block">
     <div class="main-content fixed-spacer">
