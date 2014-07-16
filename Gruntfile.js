@@ -6,6 +6,13 @@ module.exports = function(grunt) {
 
         concat: {
             // 2. Configuration for concatinating files goes here.
+            dist: {
+                src: [
+                    'js/vendor/*.js', // All JS in the libs folder
+                    'js/global.js'  // This specific file
+                ],
+                dest: 'js/build/production.js',
+            }
         }
 
     });
@@ -17,12 +24,3 @@ module.exports = function(grunt) {
     grunt.registerTask('default', ['concat']);
 
 };
-concat: {   
-    dist: {
-        src: [
-            'js/vendor/*.js', // All JS in the libs folder
-            'js/global.js'  // This specific file
-        ],
-        dest: 'js/build/production.js',
-    }
-}
