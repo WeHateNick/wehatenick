@@ -39,7 +39,8 @@
             </ul>
         </section>
     </div>
-    <article class="row featured-project jumbotron">
+    <h3>Some of my Projects</h3>
+    <article class="row featured-project jumbotron work">
         <div class="col-md-12 project-title">
             <h3>EdinCarpenterMakeup.com</h3>
         </div>
@@ -53,7 +54,7 @@
             </p>
         </div>
     </article>
-    <article class="row featured-project jumbotron">
+    <article class="row featured-project jumbotron work">
         <div class="col-md-12 project-title">
             <h3>WeHateNick.com</h3>
         </div>
