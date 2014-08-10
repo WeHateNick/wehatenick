@@ -1,18 +1,4 @@
-$(function(){
-    $("#emblem-text").hide();
-    $("#emblem-container").hover(function(){
-        $("#emblem-fg").hide("fade");
-        $("#emblem-text").show("fade");
-    });
-    $("#emblem-text").hover(function(){
-        $("#emblem-fg").hide();
-        $("#emblem-text").show();
-    });   
-    $("#emblem-container").mouseleave(function(){
-        $("#emblem-fg").show("fade");
-        $("#emblem-text").hide("fade");
-    });
-});
+
 $(function(){
     // $( "#tennant" ).attr("style", "opacity: 0.5;");
     var fade = $('.fade');

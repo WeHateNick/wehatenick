@@ -103,17 +103,18 @@ include('inc/header.php');
 <div class="container-fluid">
     <div class="emblem row">
         <div class="about-me hidden-sm hidden-xs">
-            <span class="emblem-container" id="emblem-container">
+            <figure class="emblem-container overlay-effect">
                 <a href="about.php">
                     <img id="emblem" src="img/about-me-foreground.png">
                 </a>
-                <img id="emblem-fg" src="img/about-me-background-large.png">
-                <a href="about.php" class="emblem-text" id="emblem-text">
-                    About me
-                </a>
-            </span>
+                <figcaption>
+                    <a href="about.php" class="emblem-text">
+                        About me
+                    </a>
+                </figcaption>
+            </figure>
         </div>
-        <div class="col-sm-8 col-md-offset-2 about-text jumbotron">
+        <div class="col-sm-8 col-sm-offset-2 about-text jumbotron">
                     <p>
                         I've worked in almost every kind of marketing environment. From grassroot political outreach
                         to paid digital ad buying, I've done it all. Specialization is outdated anyway.
