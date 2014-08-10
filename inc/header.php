@@ -13,6 +13,8 @@ include('functions.php');
     <title><?php echo $pageTitle; ?> | WeHateNick Web Development </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no">
+    <!-- Gmail tag -->
+    <!-- <meta name="google-site-verification" content="l7p6KEidRVw7xlFj4wjpmMEE3ozCzN8S5BWxHI_0M44" /> -->
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
